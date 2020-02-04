@@ -1,0 +1,23 @@
+{
+  "name": "behind-nodejs",
+  "version": "1.0.0",
+  "description": "How Node JS work behind the scenes",
+  "main": "node-loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arizkyfaqi/behind-nodejs.git"
+  },
+  "keywords": [
+    "Javascript",
+    "NodeJS"
+  ],
+  "author": "rizky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arizkyfaqi/behind-nodejs/issues"
+  },
+  "homepage": "https://github.com/arizkyfaqi/behind-nodejs#readme"
+}
